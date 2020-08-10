@@ -1,1 +1,6 @@
+---------------------------------------------------------------------------------------
+-- The command in the Visual Studio Code sometimes display incorrectly with some error,
+-- But run in the mysql terminal with no problem;
+
 important: section 3.9;
+notice: section 4.13;
